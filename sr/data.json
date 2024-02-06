@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "video": "https://cdn.banggooso.com/assets/images/game191/video/1.mp4",
+    "q": "다음 가수가 자기소개한다면?야ㅑㅑㅑㅑㅑㅑㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅑㅑㅑ",
+    "a": ["나는야 이무진", "나는야 리무진", "너는야 이무진", "니는야 이무진"]
+  },
+  {
+    "id": 2,
+    "video": "https://cdn.banggooso.com/assets/images/game191/video/7.mp4",
+    "q": "다음 가수가 자기소개한다면?",
+    "a": ["2", "3", "너는야 이무진", "니는야 이무진"]
+  },
+  {
+    "id": 3,
+    "video": "https://cdn.banggooso.com/assets/images/game191/video/3.mp4",
+    "q": "다음 가수가 자기소개한다면?",
+    "a": ["3", "나는야 리무진", "너는야 이무진", "니는야 이무진"]
+  }
+]
